@@ -1,0 +1,14 @@
+{
+    "name": "scene2csharp",
+    "version": "0.0.1-preview",
+    "displayName": "Scene To C#",
+    "description": "A Unity Editor tool to convert a Unity Scene into a C# script.",
+    "unity": "2023.1",
+    "unityRelease": "0f1",
+    "dependencies": { },
+    "keywords": [ ],
+    "author": {
+        "name": "Giorgos Petkakis",
+        "email": "contact@giorgos.fun"
+    }
+}
